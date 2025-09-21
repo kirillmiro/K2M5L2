@@ -1,2 +1,2 @@
 DATABASE = 'database.db'
-TOKEN = '8357782355:AAHa5BJcAMsrhRtrLBR9mwbBRQJciQ2IwJQ'
+TOKEN = 'your_telegram_bot_token'
